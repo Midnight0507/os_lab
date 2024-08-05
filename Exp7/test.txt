@@ -1,0 +1,7 @@
+Shopping List
+
+    Milk (1 gallon)
+    Bread (1 loaf)
+    Eggs (1 dozen)
+    Apples (5)
+    Cheese (8 oz)
